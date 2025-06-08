@@ -1,0 +1,8 @@
+# Google Cloud credentials
+credentials/
+*.json
+*-key.json
+*service-account*.json
+!credentials/.gitkeep
+
+.env
